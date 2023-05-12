@@ -1,0 +1,63 @@
+[
+    { 
+      "id": 1,
+      "recipeImage": "https://images.unsplash.com/photo-1629115916087-7e8c114a24ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
+      "recipeName": "Classic Lasagna",
+      "ingredients": [
+        "Lasagna noodles",
+        "Ground beef",
+        "Tomato sauce",
+        "Ricotta cheese",
+        "Mozzarella cheese"
+      ],
+      "cookingMethod": "Preheat the oven to 375°F. Cook the lasagna noodles according to the package instructions. Brown the ground beef in a large skillet. Add the tomato sauce and simmer for 10 minutes. In a bowl, mix together the ricotta and mozzarella cheeses. In a 9x13-inch baking dish, layer the noodles, meat sauce, and cheese mixture. Repeat until all ingredients are used up, ending with a layer of cheese on top. Bake for 30-35 minutes, or until bubbly and golden brown.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "recipeImage": "https://images.unsplash.com/photo-1600803907087-f56d462fd26b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+      "recipeName": "Spaghetti with Meatballs",
+      "ingredients": [
+        "Spaghetti",
+        "Ground beef",
+        "Breadcrumbs",
+        "Egg",
+        "Onion",
+        "Garlic",
+        "Tomato sauce",
+        "Parmesan cheese"
+      ],
+      "cookingMethod": "Cook the spaghetti according to the package instructions. In a bowl, mix together the ground beef, breadcrumbs, egg, onion, garlic, salt, and pepper. Form the mixture into meatballs and brown them in a large skillet. Add the tomato sauce and simmer for 10-15 minutes. Serve the meatballs and sauce over the spaghetti and sprinkle with Parmesan cheese.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "recipeImage": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=728&q=80",
+      "recipeName": "Margherita Pizza",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Mozzarella cheese",
+        "Fresh basil"
+      ],
+      "cookingMethod": "Preheat the oven to 450°F. Roll out the pizza dough and spread the tomato sauce over it. Top with mozzarella cheese and fresh basil. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "recipeImage": "https://images.unsplash.com/photo-1631206753348-db44968fd440?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+      "recipeName": "Tiramisu",
+      "ingredients": [
+        "Ladyfingers",
+        "Espresso",
+        "Marsala wine",
+        "Mascarpone cheese",
+        "Heavy cream",
+        "Sugar",
+        "Cocoa powder"
+      ],
+      "cookingMethod": "Brew the espresso and mix in the Marsala wine. In a bowl, beat together the mascarpone cheese, heavy cream, and sugar until smooth. Dip the ladyfingers in the espresso mixture and layer them in a dish. Spread the mascarpone mixture over the ladyfingers. Repeat until all ingredients are used up, ending with a layer of mascarpone on top. Chill for at least 2 hours. Dust with cocoa powder before serving.",
+      "rating": 4.7
+    }
+  ]
+  
